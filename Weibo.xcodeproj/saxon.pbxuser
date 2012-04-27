@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* WeiboAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 499}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 459}";
+			sepNavWindowFrame = "{{15, 170}, {722, 571}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* WeiboAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 544}}";
+			sepNavSelRange = "{463, 0}";
+			sepNavVisRange = "{0, 595}";
+			sepNavWindowFrame = "{{97, 128}, {722, 571}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Weibo */ = {
+		activeExec = 0;
+		executables = (
+			993DF161154477F500C8AC70 /* Weibo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* WeiboViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 544}}";
+			sepNavSelRange = "{479, 0}";
+			sepNavVisRange = "{0, 815}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* WeiboViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 3363}}";
+			sepNavSelRange = "{2675, 0}";
+			sepNavVisRange = "{1987, 418}";
+			sepNavWindowFrame = "{{135, 116}, {722, 571}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 993DF161154477F500C8AC70 /* Weibo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Weibo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Weibo */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 993DF16A1544780400C8AC70 /* Code sense */;
+		executables = (
+			993DF161154477F500C8AC70 /* Weibo */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 357234832;
+			PBXWorkspaceStateSaveDate = 357234832;
+		};
+		sourceControlManager = 993DF1691544780400C8AC70 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 288}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{121, 230}";
+			sepNavWindowFrame = "{{38, 149}, {722, 571}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Weibo-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 149}, {722, 571}}";
+		};
+	};
+	993DF161154477F500C8AC70 /* Weibo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Weibo;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	993DF1691544780400C8AC70 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	993DF16A1544780400C8AC70 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	993DF1CA154479F400C8AC70 /* weibo.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{107, 86}, {722, 571}}";
+		};
+	};
+	993DF1F615447D2800C8AC70 /* Constant.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 499}}";
+			sepNavSelRange = "{177, 35}";
+			sepNavVisRange = "{0, 212}";
+			sepNavWindowFrame = "{{577, 73}, {722, 571}}";
+		};
+	};
+	99FD74CD154AE2D6009C8777 /* WBEngine.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 5360}}";
+			sepNavSelRange = "{8026, 0}";
+			sepNavVisRange = "{7696, 1113}";
+			sepNavWindowFrame = "{{432, 138}, {722, 571}}";
+		};
+	};
+	99FD74D0154AE2D6009C8777 /* WBRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {677, 5952}}";
+			sepNavSelRange = "{5161, 0}";
+			sepNavVisRange = "{10461, 243}";
+		};
+	};
+	99FD74D1154AE2D6009C8777 /* WBSendView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 10592}}";
+			sepNavSelRange = "{6753, 258}";
+			sepNavVisRange = "{6350, 1499}";
+			sepNavWindowFrame = "{{471, 142}, {722, 571}}";
+		};
+	};
+	99FD74D4154AE2D6009C8777 /* WBSendView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 1312}}";
+			sepNavSelRange = "{2155, 0}";
+			sepNavVisRange = "{1402, 789}";
+		};
+	};
+}
